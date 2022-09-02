@@ -31,20 +31,18 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>School Competitions</title>
-        <meta name="description" content="Competitions made easy for schools" />
+        <title>School Jobs</title>
+        <meta name="description" content="Schools get best people | Employees get best jobs" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <div className={styles.intro}>
-          <h1>Competitions made easy for schools</h1>
-          <h2>Just register yourself and we&apos;ll handle everything else</h2>
+          <h1>schooljobs.online</h1>
           <h2 className={styles.mainText}>COMING SOON</h2>
-          <h2>All school competitions at one place!</h2>
+          <h2>Welcome to schooljobs.online.</h2>
           <p>
-            School, District, State, Zonal or National Level <br/>
-            100s of competitions to choose from
+            Schools get best people <br /> Employees get best jobs
           </p>
 
           <div className={styles.notifyInput}>
